@@ -1,0 +1,46 @@
+body.black {
+  background-color:black;
+  color:white;
+}
+body.white {
+  background-color:white;
+  color:black;
+}
+
+#logo {
+  width:150px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+#navigation {
+  margin-top:1%;
+}
+
+#main {
+  margin-top:1%;
+}
+
+#buttons {
+  margin-top:1%;
+}
+
+
+
+/*header {border-bottom:1px solid gray; padding:20px;}*/
+/*nav {border-right:1px solid gray;}/* width:200px; height:600px; float:left;*/
+/*article {padding:20px;} /* float:left; width:10px;*/
+/*nav ol {list-style: none; padding:0;}*/
+/*.buttons {
+
+}/*float:right;*/
+
+/*article {
+
+} /*width:50%;*/
+
+/*header img {
+  width:80px;
+}/*float:right;*/
